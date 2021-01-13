@@ -1,0 +1,74 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.background-color{
+    background-color: whitesmoke;
+
+}
+span{
+    color: rgb(118, 151, 46);
+}
+h1{
+    font-size: 60px;
+    text-transform: uppercase;
+    color: rgb(245, 187, 80);    
+}
+h3{
+    color: rgb(245, 187, 80);
+}
+p{
+    color: dimgray;
+}
+.logo-size img{ 
+        width: 232px;
+}
+div .manu-bold a {
+    font-weight: 600;
+}
+.img-size img{
+    width: 100%;
+}
+.latif{
+    margin-top: 80px;
+}
+.button-color {
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    height: 45px;
+    border: none;
+}
+.woman-jacket h2{
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+button.button-color.bottom-margin {
+    margin-left: 206px;
+}
+button.button-color.bottmo-margin {
+    margin-left: 206px;
+}
+.jacket-card{
+    border: none;
+}
+img.img-edit {
+    height: 350px;
+    background-color: rgb(211, 208, 208);
+}
+#help-section{
+    margin-top: 100px;
+    height: 400px;
+
+}
+.hlf-width img{
+    width: 100%;
+    margin-top: 50px;
+}
+img {
+    width: 90px;
+    float: left;
+    padding-right: 10px;
+}
+.shadow-lg.p-3.mb-5.bg-white.rounded {
+    width: 550px;
+}
